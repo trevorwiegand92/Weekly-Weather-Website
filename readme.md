@@ -18,3 +18,8 @@ https://github.com/trevorwiegand92/Weekly-Weather-Website
 
 
 Screenshots:
+
+![Here's a screenshot of the finished index page.](./assets/images/initial_index_screenshot.png)
+
+![Here's a screenshot of the finished index page.](./assets/images/weather_displayed_screenshot.png)
+

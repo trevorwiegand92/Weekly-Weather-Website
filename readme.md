@@ -10,10 +10,11 @@ Along with the weather conditions, a UV index will display with a color that ind
 
 Live URL:
 
-
+https://trevorwiegand92.github.io/Weekly-Weather-Website/
 
 Github URL:
 
+https://github.com/trevorwiegand92/Weekly-Weather-Website
 
 
 Screenshots:

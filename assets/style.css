@@ -1,0 +1,76 @@
+header {
+    background: radial-gradient(circle, rgb(0, 2, 104) 0%, rgba(68, 65, 199, 0.954) 100%);
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    position: sticky; 
+    color: #f0ead6;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+}
+
+button,
+input {
+  /* 1 */
+  overflow: visible;
+}
+
+button,
+select {
+  /* 1 */
+  text-transform: none;
+}
+
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button;
+}
+
+button::-moz-focus-inner,
+[type='button']::-moz-focus-inner,
+[type='reset']::-moz-focus-inner,
+[type='submit']::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+
+.search-button {
+
+    margin: 0.5rem;
+    background-color: #5098e6;
+    color: #d9e9e8;
+}
+
+.history-btn {
+    text-align: center;
+    display: inline-block;
+    padding: 0.5rem 1.2rem;
+    margin: 0.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+    border: 1px solid transparent;
+    outline: none;
+    color: #1a1a1a;
+    background-color: #5098e6;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  }

@@ -74,3 +74,10 @@ button::-moz-focus-inner,
     background-color: #5098e6;
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
   }
+
+  @media screen and (min-width: 768px) {
+    main,
+    nav {
+      flex-direction: column;
+    }
+} 
